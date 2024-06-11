@@ -1,2 +1,5 @@
 streamlit
 replicate
+torch
+T5Tokenizer
+T5ForConditionalGeneration
